@@ -20,7 +20,7 @@ env/
 
 # Model Files
 models/
-*.keras
+
 *.h5
 *.pkl
 
