@@ -18,11 +18,7 @@ env/
 # Streamlit
 .streamlit/
 
-# Model Files
-models/
 
-*.h5
-*.pkl
 
 # Dataset Files
 data/
