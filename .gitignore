@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Model Files
+models/
+*.keras
+*.h5
+*.pkl
+
+# Dataset Files
+data/
+*.csv
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
